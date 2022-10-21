@@ -1,4 +1,4 @@
-namespace JAproject
+namespace JA_CS
 {
     internal static class Program
     {

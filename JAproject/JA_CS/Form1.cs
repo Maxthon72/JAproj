@@ -1,4 +1,4 @@
-namespace JAproject
+namespace JA_CS
 {
     public partial class Form1 : Form
     {
