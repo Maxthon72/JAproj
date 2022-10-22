@@ -1,0 +1,2 @@
+LIBRARY ASMdll
+EXPORTS MyProc1
